@@ -1,0 +1,13 @@
+cd bch/btc
+python btc.py +6282237416678
+python btc.py +6283165866305
+python btc.py +6283165866256
+python btc.py +6283165866260
+python btc.py +6283165866264
+python btc.py +6285730273294
+python btc.py +6282282869204
+python btc.py +6281271152004
+python btc.py +6283165866256
+python btc.py +6282375802793
+python btc.py +6283809354249
+
