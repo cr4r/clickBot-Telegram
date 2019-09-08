@@ -1,0 +1,6 @@
+cd bch/ltc/1
+python ltc.py +13612333787
+python ltc.py +17863880108
+python ltc.py +16673140083
+python ltc.py +15202013576
+python ltc.py +14702845312

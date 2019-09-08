@@ -1,0 +1,6 @@
+cd bch/zec/1
+python zec.py +13612333787
+python zec.py +17863880108
+python zec.py +16673140083
+python zec.py +15202013576
+python zec.py +14702845312
