@@ -1,6 +1,6 @@
-cd bch/doge/1
-python doge.py +13612333787
-python doge.py +17863880108
-python doge.py +16673140083
-python doge.py +15202013576
-python doge.py +14702845312
+cd bch
+python3 doge.py +13612333787
+python3 doge.py +17863880108
+python3 doge.py +16673140083
+python3 doge.py +15202013576
+python3 doge.py +14702845312
