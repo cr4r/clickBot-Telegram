@@ -1,6 +1,6 @@
-cd bch/btc/1
-python btc.py +13612333787
-python btc.py +17863880108
-python btc.py +16673140083
-python btc.py +15202013576
-python btc.py +14702845312
+cd bch
+python3 btc.py +13612333787
+python3 btc.py +17863880108
+python3 btc.py +16673140083
+python3 btc.py +15202013576
+python3 btc.py +14702845312
